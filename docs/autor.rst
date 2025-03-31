@@ -7,4 +7,4 @@ O Autorze
 **Telefon:** 111-111-111
 **Szkoła:** ZSE
 
-**Link do dokumentacji ReadTheDocs:** https://github.com/bartoszpodgorny2137/zse-4TpBP-rtd.io/en/latest/
+**Link do dokumentacji ReadTheDocs:** https://github.com/bartoszpodgorny2137/zse-4TpBP-rtd
