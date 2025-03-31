@@ -1,9 +1,9 @@
 O Autorze
 =========
 
-**Imię i nazwisko:** Hubert Slaby
+**Imię i nazwisko:** Bartosz Podgórny
 **Klasa:** 4TP  
-**E-mail:** hubertslaby6@gmail.com  
+**E-mail:** podgorny45@gmail.com
 **Telefon:** 111-111-111
 **Szkoła:** ZSE
 
